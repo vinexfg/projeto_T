@@ -6,7 +6,7 @@ from tkinter import filedialog
 pygame.mixer.init()
 pygame.init()
 
-music_file ='https://www.youtube.com/watch?v=fuWYBmXbgkU&list=PL4T2jwgFRmoEY1HP5FFsTB891d8bcm6jq&ab_channel=GuerradosTronos'
+music_file ='musica.py'
 
 pygame.mixer.music.load(music_file)
 
